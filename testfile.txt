@@ -1,0 +1,4 @@
+line ends with LF 1
+line ends with LF 2
+line ends with CRLF 1
+line ends with CRLF 2
